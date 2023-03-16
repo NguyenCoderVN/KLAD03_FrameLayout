@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KLAD03_FrameLayout</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="this_is_kotlin_course">This is Kotlin course</string>
+</resources>
